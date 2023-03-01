@@ -34,7 +34,7 @@ const vue_app = Vue.createApp({
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
               title: "IMDB + Jacob Andrew Hellers Top 8 Movies",
-              owner: "Jong Uns",
+              owner: "Jacob Heller",
               github: "https://github.com/JacobHeller0405/Heller-P3"
       }
     },
